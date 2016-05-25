@@ -5,6 +5,7 @@
 ## Installation
 
 - Install dependencies: `npm install`
+- Start mongodb: `mongod --dpath <mongodb-data-path>`
 - Start the server: `node server.js`
 
 ## Testing the API
